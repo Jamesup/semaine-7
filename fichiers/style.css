@@ -1,0 +1,132 @@
+body
+{
+    background-image:url(dark_embroidery.png) ;
+    background-attachment:fixed;
+    padding:0;
+    margin:0;
+    font-family: 'helveticalight', verdana, serif;
+}
+
+@font-face {
+
+font-family: 'helveticalight';
+src:url('helveticalight.ttf') format('truetype');
+
+}
+
+header
+{
+    background-image:url(mooning.png);
+   width:auto;
+   height:200px;
+   border:1px solid grey;
+  
+}
+
+header p
+{
+    color:white;
+   
+}
+
+.photo img
+{
+   
+    width:233px;
+    height:199px;
+    float:left;
+}
+
+.recherche
+{
+    float:left;
+   
+}
+
+h1
+{
+    margin-left:45px;
+ 
+}
+
+h2
+{
+ 
+    margin-left:45px;
+
+}
+
+main
+{
+ 
+    width:100%;
+    font-size:14px;
+    display:inline-block;
+    color:white;
+    clear:both;
+}
+main h3
+{
+    text-align:center;
+}
+ main p
+ {
+   margin-top:-2px;  
+ }
+ 
+.parcours
+{
+    border:1px solid grey;
+    width:30%;
+    float:left;
+    margin:15px;
+ 
+
+}
+
+.ambition
+{
+    border:1px solid grey;
+    width:30%;
+    float:left;
+    margin:15px;
+  
+}
+
+.experience
+{
+    border:1px solid grey;
+    width:30%;
+    float:left;
+    margin:15px;
+   
+}
+
+
+
+.conteneur
+{
+     margin:15px;
+    padding:10px;
+}
+.footer
+{
+    background-image:url(mooning.png);
+    bottom:0;
+    width:100%;
+ display:inline-block;
+}
+
+
+iframe{
+   padding:5px;
+    float:left;
+    vertical-align:top;
+   
+}
+.coordones p
+{
+    float:left;
+    margin-left:30px;
+    
+}
