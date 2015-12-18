@@ -23,6 +23,7 @@ header
     height:200px;
     border:1px solid gray;
     clear:both;
+   
 }
 
 header p
@@ -33,10 +34,12 @@ header p
 
 .photo img
 {
-   
-    width:233px;
+   border-radius:100%;
+    width:199px;
     height:199px;
     float:left;
+    padding:5px;
+    border:1px black solid;
 }
 
 .recherche
